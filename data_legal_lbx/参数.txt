@@ -1,0 +1,4 @@
+findmin t 4
+genMaskandW rr 5
+genMaskandW rg 0.5
+genMaskandW rb 1
